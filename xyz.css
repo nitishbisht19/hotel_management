@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Stardos+Stencil:wght@700&display=swap");
+.mynotch {
+  background-color: #69a197;
+  height: 4vh;
+}
+.myhead {
+  display: flex;
+}
+.myrows {
+  float: left;
+  padding-top: 20px;
+  font-family: "Stardos Stencil", cursive;
+  font-size: 50px;
+  padding-left: 20px;
+}
+#logo {
+  float: left;
+}
+#Pi {
+  color: goldenrod;
+}
+.logout {
+  float: left;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-left: 650px;
+}
+.myend {
+  font-size: 150%;
+  padding-top: 60px;
+  font-family: "Times New Roman", Times, serif;
+}
